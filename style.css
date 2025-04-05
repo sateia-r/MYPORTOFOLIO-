@@ -10,3 +10,19 @@
 section {
   padding-top: 5rem;
 }
+
+.bg-purple {
+  background-color: #6f42c1;
+}
+
+.bg-blue {
+  background-color: #24292f;
+}
+
+.border-box {
+  border: 1px solid #b0c4de;
+  background-color: #B0C4DE;
+  border-radius: 10px;
+  border-width: 10px;
+  color: #fff;
+}
